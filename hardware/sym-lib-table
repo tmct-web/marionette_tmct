@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name marionette-rescue)(type Legacy)(uri ${KIPRJMOD}/marionette-rescue.lib)(options "")(descr ""))
+)
