@@ -15,7 +15,7 @@ For example, the USB port connected to the controlling side (master side) is USB
 
 たとえば制御する側（マスタ側）に繋がるUSBポートはUSB-COM、制御される側（スレーブ側）につながるUSBポートはHIDキーボード（＝スレーブ側は普通のHIDキーボードに見える）、という構成にすると、マスタ側のUSB-COMでスレーブ側をキーボード制御する、なんてことができます。
 
-![Example](https://ss1.xrea.com/tmct.s1009.xrea.com/created/image/td-xx-7e2g01/marionette_hw_exdiag.svg)
+![Example](https://ss1.xrea.com/tmct.s1009.xrea.com/img/work/td-xx-7e2g01/marionette_hw_exdiag.svg)
 
 
 ## Hardware specifications
@@ -27,11 +27,11 @@ MarionetteはArduino Leonardoの2枚分の回路が実装されています。
 
 2枚分の回路はそれぞれマスタ(MASTER)とスレーブ(SLAVE)と呼び、各々別のプログラムでまったく別の動作をさせることができます。ハードウェアのブロック図を以下に示します。
 
-![Hardware block diagram](https://ss1.xrea.com/tmct.s1009.xrea.com/created/image/td-xx-7e2g01/marionette_hw_diag.svg)
+![Hardware block diagram](https://ss1.xrea.com/tmct.s1009.xrea.com/img/work/td-xx-7e2g01/marionette_hw_diag.svg)
 
-See our [homepage](https://ss1.xrea.com/tmct.s1009.xrea.com/created/index_en.html) for more information.
+See our [homepage](https://ss1.xrea.com/tmct.s1009.xrea.com/work/td-ja-7e2g01.html) for more information.(* Japanese only)
 
-詳細は [ホームページ](https://ss1.xrea.com/tmct.s1009.xrea.com/created/index.html) を参照してください。
+詳細は [ホームページ](https://ss1.xrea.com/tmct.s1009.xrea.com/work/td-ja-7e2g01.html) を参照してください。
 
 
 ## Recommended projects
